@@ -1,4 +1,4 @@
-# CM1-Net-ISPR2024
+# CM1-Net-Model
 A custom model is released named "CM1-Net".
 <h4 align="center"><strong><a href="https://doi.org/10.1007/978-3-031-82156-1_1">Published: Springer Nature</a></strong></h4>
 <h4 align="center"><strong><a href="https://doi.org/10.1007/978-3-031-82156-1_1">Conference: ISPR'2024, Istanbul City, Turkey</a></strong></h4>
