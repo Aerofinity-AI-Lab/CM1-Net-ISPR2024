@@ -12,6 +12,8 @@ A custom model is released named "CM1-Net".
 - Trained weights will be uploaded soon.
 - The proposed CM1-Net code will be uploaded soon.
 
+## Proposed Model: CM1-Net
+![](./Build/Proposed Architecture-1.jpeg)
 
 ## Cite this Paper
 
