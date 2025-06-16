@@ -13,7 +13,7 @@ A custom model is released named "CM1-Net".
 - The proposed CM1-Net code will be uploaded soon.
 
 ## Proposed Model: CM1-Net
-./Build/Proposed Architecture-1.jpeg
+![](./Build/Proposed_Architecture_1.jpg)
 
 ## Cite this Paper
 
