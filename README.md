@@ -1,5 +1,5 @@
 # CM1-Net-Model
--A custom model is released named "CM1-Net". 
+-A custom model is released named "CM1-Net". </br>
 -You can use this model for your any computer vision and image processing project.
 
 <h4 align="center"><strong><a href="https://doi.org/10.1007/978-3-031-82156-1_1">Publication: Springer Nature</a></strong></h4>
